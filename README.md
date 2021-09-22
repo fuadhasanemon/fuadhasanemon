@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+<img src="https://github.com/shaunhossain/shaunhossain/blob/main/hello_there.gif" height="300px"/> </p>
 
-<!--
-**fuadhasanemon/fuadhasanemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there🖐️! I'm Fuad Hasan Emon ✌️
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunhossain" alt="jayant" /> </p>
 
-Here are some ideas to get you started:
+_**LATEST UPDATE:**_ Learning Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm a Web Developer.
+- 👨‍💻 working as FrontEnd Developer at ***<a href="https://dcastalia.com/">Dcastalia</a>***.
+- 📱 WP amd React developer.
+- 😍 Loves coding ❤️
+
+<a href="https://www.linkedin.com/in/fuadhasanemon2021/"> Linkedin </a>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=fuadhasanemon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasanemon&theme=black-blue" alt="nameisjayant"/>

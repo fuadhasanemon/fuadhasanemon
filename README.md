@@ -8,7 +8,7 @@ _**LATEST UPDATE:**_ Learning Flutter
 
 - 💻 I'm a Web Developer.
 - 👨‍💻 working as FrontEnd Developer at ***<a href="https://dcastalia.com/">Dcastalia</a>***.
-- 📱 WP amd React developer.
+- 📱 WP and React developer.
 - 😍 Loves coding ❤️
 
 <a href="https://www.linkedin.com/in/fuadhasanemon2021/"> Linkedin </a>

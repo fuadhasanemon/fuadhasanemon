@@ -4,7 +4,7 @@
 ### Hello there🖐️! I'm Fuad Hasan Emon ✌️
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunhossain" alt="jayant" /> </p>
 
-_**LATEST UPDATE:**_ Learning Flutter
+_**LATEST UPDATE:**_ Learning React
 
 - 💻 I'm a Web Developer.
 - 👨‍💻 working as FrontEnd Developer at ***<a href="https://dcastalia.com/">Dcastalia</a>***.

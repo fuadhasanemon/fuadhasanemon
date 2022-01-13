@@ -11,7 +11,7 @@ _**LATEST UPDATE:**_ Learning React
 - 📱 WP and React developer.
 - 😍 Loves coding ❤️
 
-<a href="https://www.linkedin.com/in/fuadhasanemon2021/"> Linkedin </a>
+<a href="https://www.linkedin.com/in/fuadhasanemon2021/"> Linkedin </a> | <a href="https://www.facebook.com/fuad.h.emon">Facebook</a>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=fuadhasanemon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

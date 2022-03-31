@@ -7,7 +7,7 @@
 _**LATEST UPDATE:**_ Learning React
 
 - 💻 I'm a Web Developer.
-- 👨‍💻 working as FrontEnd Developer at ***<a href="https://dcastalia.com/">Dcastalia</a>***.
+- 👨‍💻 working as Software Developer at ***<a href="https://dcastalia.com/">Dcastalia</a>***.
 - 📱 WP and React developer.
 - 😍 Loves coding ❤️
 

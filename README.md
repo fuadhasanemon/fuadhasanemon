@@ -11,14 +11,13 @@ _**LATEST UPDATE:**_ Learning React
 - 📱 WP and React developer.
 - 😍 Loves coding ❤️
 
-<a href="https://www.linkedin.com/in/fuadhasanemon2021/"> Linkedin </a> | <a href="https://www.facebook.com/fuad.h.emon">Facebook</a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasanemon&theme=black-blue" alt="nameisjayant"/>
 
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadhasanemon&label=Profile%20views&color=0e75b6&style=flat" alt="fuadhasanemon" /> </p>
 

@@ -1,8 +1,8 @@
-<p align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fuadhasanemon&label=Profile%20views&color=0e75b6&style=flat" alt="fuadhasanemon" /> </p>
+<p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadhasanemon&label=Profile%20views&color=0e75b6&style=flat" alt="fuadhasanemon" /> </p>
 
-<h2 align="center">Hello there🖐️! I'm Fuad Hasan Emon ✌️</h2>
-<h3 align="center">A passionate Full stack developer from Bangladesh</h3>
+<h2 align="left">Hello there🖐️! I'm Fuad Hasan Emon ✌️</h2>
+<h3 align="left">A passionate Full stack developer from Bangladesh</h3>
 
 _**LATEST UPDATE:**_ Learning React and Laravel
 
@@ -13,7 +13,7 @@ _**LATEST UPDATE:**_ Learning React and Laravel
 - 😍 Loves coding ❤️
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasanemon&theme=black-blue" alt="nameisjayant"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasanemon&theme=black-blue" alt="nameisjayant"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fuadhasanemon&show_icons=true&locale=en" alt="fuadhasanemon" />
 

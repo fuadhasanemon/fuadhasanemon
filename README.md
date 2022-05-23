@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/shaunhossain/shaunhossain/blob/main/hello_there.gif" height="300px"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fuadhasanemon&label=Profile%20views&color=0e75b6&style=flat" alt="fuadhasanemon" /> </p>
 
-### Hello there🖐️! I'm Fuad Hasan Emon ✌️
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunhossain" alt="jayant" /> </p>
+<h2 align="center">Hello there🖐️! I'm Fuad Hasan Emon ✌️</h2>
+<h3 align="center">A passionate Full stack developer from Bangladesh</h3>
 
-_**LATEST UPDATE:**_ Learning React
+_**LATEST UPDATE:**_ Learning React and Laravel
 
 - 💻 I'm a Web Developer.
 - 👨‍💻 working as Software Developer at ***<a href="https://dcastalia.com/">Dcastalia</a>***.
@@ -14,12 +14,6 @@ _**LATEST UPDATE:**_ Learning React
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasanemon&theme=black-blue" alt="nameisjayant"/>
 
-
-
-
-<h3 align="center">A passionate Full stack developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadhasanemon&label=Profile%20views&color=0e75b6&style=flat" alt="fuadhasanemon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuadhasanemon" alt="fuadhasanemon" /></a> </p>
 
@@ -36,7 +30,7 @@ _**LATEST UPDATE:**_ Learning React
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fuadhasanemon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fuadhasanemon" /></a><a href="https://ko-fi.com/fuadhasanemon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fuadhasanemon" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadhasanemon&show_icons=true&locale=en&layout=compact" alt="fuadhasanemon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuadhasanemon&show_icons=true&locale=en" alt="fuadhasanemon" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fuadhasanemon&show_icons=true&locale=en" alt="fuadhasanemon" /></p>
 

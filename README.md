@@ -8,14 +8,18 @@ _**LATEST UPDATE:**_ Learning React and Laravel
 
 - 💻 I'm a Web Developer.
 - 👨‍💻 working as Software Developer at ***<a href="https://dcastalia.com/">Dcastalia</a>***.
-- 📱 WP and React developer.
+- 👨‍💻 ***<a href="https://fuadhasanemon.com/">Portfolio</a>***.
+- 📱 WP, Laravel and React developer.
 - 😍 Loves coding ❤️
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasanemon&theme=black-blue" alt="nameisjayant"/>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fuadhasanemon&show_icons=true&locale=en" alt="fuadhasanemon" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuadhasanemon" alt="fuadhasanemon" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,5 +36,5 @@ _**LATEST UPDATE:**_ Learning React and Laravel
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fuadhasanemon&show_icons=true&locale=en" alt="fuadhasanemon" /></p>
+<p></p>
 

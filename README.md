@@ -13,7 +13,7 @@ _**LATEST UPDATE:**_ Learning React and Laravel
 - 😍 Loves coding ❤️
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasanemon&theme=black-blue" alt="nameisjayant"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasanemon&theme=black-blue" alt="nameisjayant"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fuadhasanemon&show_icons=true&locale=en" alt="fuadhasanemon" />
 

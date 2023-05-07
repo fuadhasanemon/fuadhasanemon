@@ -9,7 +9,7 @@ _**LATEST UPDATE:**_ Learning React and Laravel
 - 💻 I'm a Web Developer.
 - 💻 working as Software Engineer at ***<a href="https://springrain.io/">Spring Rain Privet Ltd</a>***.
 - 👨‍💻 ***<a href="https://fuadhasanemon.com/">Portfolio</a>***.
-- 📱 WP, Laravel and React developer.
+- 📱 WP, Full stack developer.
 - 😍 Loves coding ❤️
 
 <h3 align="left">Connect with me:</h3>

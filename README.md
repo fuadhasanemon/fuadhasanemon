@@ -7,7 +7,7 @@
 _**LATEST UPDATE:**_ Learning React and Laravel
 
 - 💻 I am Fuad and I am working as a Software Engineer at ***<a href="https://springrain.io/">Spring Rain Privet Ltd</a>***.
-- 👨‍💻 ***<a href="https://fuadhasanemon.com/">Portfolio</a>***.
+- 👨‍💻 ***<a href="http://techjourney.xyz/">Portfolio</a>***.
 - 📱 WP, Full stack developer.
 - 😍 Loves coding ❤️
 

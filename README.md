@@ -32,45 +32,52 @@
 ---
 
 ## 🛠️ Languages and Tools:
-<p align="center">
 
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+<div align="center" style="background-color: #ffffff; padding: 30px; border-radius: 15px;">
 
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/12551863?s=200&v=4" alt="Gatsby" width="40" height="40"/>
-  <img src="https://redux.js.org/img/redux.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" alt="Zustand" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MUI" width="40" height="40"/>
-  <img src="https://cdnlogo.com/logos/t/34/tailwind-css.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Shadcn UI" width="40" height="40"/>
+<!-- Programming Languages -->
+<br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50" style="margin: 15px;"/>
+<br/><br/>
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/3663952?s=200&v=4" alt="Express.js" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/87700009?s=200&v=4" alt="Koa.js" width="40" height="40"/>
+<!-- Frontend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" style="margin: 15px;"/>
+<img src="https://avatars.githubusercontent.com/u/12551863?s=200&v=4" alt="Gatsby" width="50" height="50" style="margin: 15px;"/>
+<img src="https://redux.js.org/img/redux.svg" alt="Redux" width="50" height="50" style="margin: 15px;"/>
+<img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" alt="Zustand" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MUI" width="50" height="50" style="margin: 15px;"/>
+<img src="https://cdnlogo.com/logos/t/34/tailwind-css.svg" alt="TailwindCSS" width="50" height="50" style="margin: 15px;"/>
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Shadcn UI" width="50" height="50" style="margin: 15px;"/>
+<br/><br/>
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+<!-- Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="margin: 15px;"/>
+<img src="https://avatars.githubusercontent.com/u/3663952?s=200&v=4" alt="Express.js" width="50" height="50" style="margin: 15px;"/>
+<img src="https://avatars.githubusercontent.com/u/87700009?s=200&v=4" alt="Koa.js" width="50" height="50" style="margin: 15px;"/>
+<br/><br/>
 
-  <!-- Tools & Platforms -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 15px;"/>
+<br/><br/>
 
-</p>
+<!-- Tools & Platforms -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin: 15px;"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50" style="margin: 15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="50" height="50" style="margin: 15px;"/>
+<br/>
+
+</div>
 
 ---
 

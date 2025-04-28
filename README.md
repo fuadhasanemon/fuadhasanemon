@@ -95,8 +95,8 @@
 ---
 
 ## 🎯 Quote of the Day:
-<p align="center">
 ![Quote](https://quotes-github-readme.vercel.app/api?theme=light&lang=en)
-</p>
+
+
 ---
 

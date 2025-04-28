@@ -95,7 +95,7 @@
 ---
 
 ## 🎯 Quote of the Day:
-> "Placeholder quote here"
+![Quote](https://quotes-github-readme.vercel.app/api?theme=light&lang=en)
 
 ---
 
